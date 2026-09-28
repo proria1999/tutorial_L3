@@ -4,6 +4,6 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Branch5 --commit--> ");
+		System.out.println("Discontinued development branch --commit--> ");
 	}
 }
